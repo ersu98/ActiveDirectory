@@ -2,6 +2,9 @@
 A simple script for removing all users (disabled or not) from groups in Active Directory.
 
 
+This can be used be used to make automatic routines.
+
+
 ## RemoveUsersFromGroup
 Edit group name here.
 
